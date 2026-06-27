@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-leben-lang/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Ein Leben lang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-leben-lang/) |
+| **Get License** | [Official Music Licensing for Ein Leben lang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-leben-lang/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, steig ein, wir jagen durch die Skyline bei Nacht
+> Dein Blick im Neonlicht hat mich um den Verstand gebracht
+> Vergiss all die andern, heute zählen nur du und ich
+> Ein Leben lang, Baby, ich will keine andre, nur dich
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
