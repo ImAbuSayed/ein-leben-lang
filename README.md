@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-leben-lang/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Ein Leben lang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-leben-lang/) |
+| **Get License** | [Obtain a Music License for Ein Leben lang](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-leben-lang/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4491)
 
 ---
 
